@@ -5,16 +5,6 @@ resource "aws_security_group" "allow_tls" {
 
   tags = {
     Name = "allow_tls"
-<<<<<<< HEAD
-
-
-}
-
-  }
-
-this is krishna reddy , aws devops class
->>>>>>> 7bf061e028d5c5384adff99d0a715447fcfb6cc0
-
 
 }
 
