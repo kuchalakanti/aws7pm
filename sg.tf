@@ -5,12 +5,6 @@ resource "aws_security_group" "allow_tls" {
 
   tags = {
     Name = "allow_tls"
-  }
-
-this is krishna reddy , aws devops class
-this is vcube class
-atn 7pm
-
 
 }
 
